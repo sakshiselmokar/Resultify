@@ -9,6 +9,9 @@ Resultify is a web-based application designed to streamline the management of st
 - **Responsive Design**: Ensures a seamless user experience across different devices and screen sizes.
 - **Easy Integration**: Built using popular web technologies, making it easy to integrate with existing systems and databases.
 
+## Demo Link:https://sakshiselmokar.github.io/Resultify/
+
+
 ## Technology Stack
 - HTML 5
 - CSS 3
