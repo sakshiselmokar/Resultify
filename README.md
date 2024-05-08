@@ -31,6 +31,6 @@ Resultify is a web-based application designed to streamline the management of st
 ## Usage
 1. Students can access their results by visiting the student portal and entering their email address and registration number.
 2. Administrators can log in to the admin portal using their credentials and upload student mark details through the provided form.
-
+   
 ## Credits
 - Developed by Sakshi Selmokar
